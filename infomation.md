@@ -67,9 +67,9 @@ GENERAL
 #general_ja チャットルーム(日本語)  
 #general_en チャットルーム(英語)  
 #plan 企画の宣伝用  
-#dev 開発者用  
+#dev 開発関係のチャットルーム  
 #error トラブルが起きた場合や質問など  
-#off 話題が逸れた場合はこちら  
+#off BitZeny、暗号通貨以外の話題のチャットルーム
 
 VOICE CHANNEL  
 #voice_ja ボイス中のチャットルーム(日本語)  
