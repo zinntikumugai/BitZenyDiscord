@@ -72,8 +72,8 @@ GENERAL
 #off BitZeny、暗号通貨以外の話題のチャットルーム
 
 VOICE CHANNEL  
-#voice_ja ボイス中のチャットルーム(日本語)  
-#voice_en ボイス中のチャットルーム(英語)  
+#voice_ja ボイスチャット中のチャットルーム(日本語)  
+#voice_en ボイスチャット中のチャットルーム(英語)  
 
 [English]
 ~~誰かやって~~
