@@ -40,38 +40,38 @@ BOTが止まっている等ありましたら @硫酸鶏#3925、@riku6460#4368 �
 なおこれらのことはモデレーター以外の人でも進んで行ってもらっても構いませんし、急なユーザー増加のためこちらからお願いする時があります
 
 <**目次**>
-INFORMATION
-#information このコミュニティの説明
-#links 各種外部リンク
-#news お知らせなど
-#newusers 新規ユーザーの加入ログ
-#introduction 自己紹介用
+INFORMATION  
+#information このコミュニティの説明  
+#links 各種外部リンク  
+#news お知らせなど  
+#newusers 新規ユーザーの加入ログ  
+#introduction 自己紹介用  
 
-MODERATORS
-#requestbox 管理人への要望など
+MODERATORS  
+#requestbox 管理人への要望など  
 
-BOT
-#bot 各種コマンド
-#rain ./rain専用
-#bot_checker BOT開発時、デバック用
-#monitor 各プールの動作状況
-#debug 開発者用
+BOT  
+#bot 各種コマンド  
+#rain ./rain専用  
+#bot_checker BOT開発時、デバック用  
+#monitor 各プールの動作状況  
+#debug 開発者用  
 
-ARTS
-#illusts 二次創作イラストの投稿用
-#illusts_r18 二次創作イラストの投稿用(R18)
-#art_requests 描いてほしい絵のリクエスト
+ARTS  
+#illusts 二次創作イラストの投稿用  
+#illusts_r18 二次創作イラストの投稿用(R18)  
+#art_requests 描いてほしい絵のリクエスト  
 
-GENERAL
-#general_ja チャットルーム(日本語)
-#general_en チャットルーム(英語)
-#plan 企画の宣伝用
-#dev 開発者用
-#error トラブルが起きた場合や質問など
-#off 話題が逸れた場合はこちら
+GENERAL  
+#general_ja チャットルーム(日本語)  
+#general_en チャットルーム(英語)  
+#plan 企画の宣伝用  
+#dev 開発者用  
+#error トラブルが起きた場合や質問など  
+#off 話題が逸れた場合はこちら  
 
-VOICE CHANNEL
-#voice_ja ボイス中のチャットルーム(日本語)
-#voice_en ボイス中のチャットルーム(英語)
+VOICE CHANNEL  
+#voice_ja ボイス中のチャットルーム(日本語)  
+#voice_en ボイス中のチャットルーム(英語)  
 
 [English]
