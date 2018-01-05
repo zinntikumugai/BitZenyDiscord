@@ -15,4 +15,8 @@ Githubのアカウントを持ってない場合は `#requestbox` にて提案�
 - プレーンテキスト  
 - Discord対応マークダウン
 
-参考： [Discordjp 基本操作](http://discordjp.eeharu.net/basicoperation.html)  
+## 注意事項
+Discordは改行の指定はありませんがGithubでのみやすさを考え、__**改行毎に半角スペースを２つ入れてください**__  
+
+## その他
+参考： [Discordjp 基本操作](http://discordjp.eeharu.net/basicoperation.html)  
